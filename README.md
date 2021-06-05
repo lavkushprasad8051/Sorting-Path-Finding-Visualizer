@@ -2,6 +2,7 @@ Algorithm Visualizer
 Purpose
 This project was originally started to get a better understanding for javascript and jqeury. I also was interested in different types of pathfinding algorithms and wanted to be able to better visualize how they work. Once I finished getting some basic pathfinding algorithms I decided I wanted to see how different sorting algorithms worked too.
 
+Project Link: https://lavkushprasad8051.github.io/Sorting-Path-Visualizer/
 
 How It Works
 Select the algorithm you wish to see and press visualize! For the pathfinding side you can click and drag to add walls that the algorithm must avoid. For the sorting side you can select different speeds to get a better understanding for the algorithm.
