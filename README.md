@@ -1,31 +1,36 @@
-Algorithm Visualizer
-Purpose
-This project was originally started to get a better understanding for javascript and jqeury. I also was interested in different types of pathfinding algorithms and wanted to be able to better visualize how they work. Once I finished getting some basic pathfinding algorithms I decided I wanted to see how different sorting algorithms worked too.
+<h1>Algorithm Visualizer</h1>
 
-Project Link: https://lavkushprasad8051.github.io/Sorting-Path-Visualizer/
+<h2>Purpose</h2>
+This project was originally started to get a better understanding for javascript and jqeury. I also was interested in different types of pathfinding algorithms and wanted to be able to better visualize how they work.
+Once I finished getting some basic pathfinding algorithms I decided I wanted to see how different sorting algorithms worked too.
 
-How It Works
-Select the algorithm you wish to see and press visualize! For the pathfinding side you can click and drag to add walls that the algorithm must avoid. For the sorting side you can select different speeds to get a better understanding for the algorithm.
-The Pathfinding Algorithms
-The current pathfinding algorithms.
+The project can be accessed here: https://lavkushprasad8051.github.io/Sorting-Path-Finding-Visualizer/
 
-A* search: a weighted algorithm that uses heuristics to gurantee the shortest path
+<h2>How It Works</h2>
+Select the algorithm you wish to see and press visualize! 
+For the pathfinding side you can click and drag to add walls that the algorithm must avoid.
+For the sorting side you can select different speeds to get a better understanding for the algorithm.
 
-Dijkstra's Algorithm: a weighted algorithm that gurantees the shortest path
+<h2>The Pathfinding Algorithms</h2>
+The current pathfinding algorithms.<br/><br/>
 
-Greedy Best-first Search: a weighted algorithm that is faster, more heuristic-heavy version of A* that does not gurantee the shortest path
+<b>A* search</b>: a weighted algorithm that uses heuristics to gurantee the shortest path
 
-Breadth-first Search: a great unweighted algorithm that gurantees the shortest path
+<b>Dijkstra's Algorithm</b>: a weighted algorithm that gurantees the shortest path
 
-Depth-first Search: a unweighted algorithm that does not gurantee the shortest path
+<b>Greedy Best-first Search</b>: a weighted algorithm that is faster, more heuristic-heavy version of A* that does not gurantee the shortest path
 
-The Sorting Algorithms
-The current sorting algorithms.
+<b>Breadth-first Search</b>: a great unweighted algorithm that gurantees the shortest path
 
-Quick Sort: An efficient and quick in-place sorting algorithm
+<b>Depth-first Search</b>: a unweighted algorithm that does not gurantee the shortest path
 
-Bubble Sort: A simple and slow sorting algorithm
+<h2>The Sorting Algorithms</h2>
+The current sorting algorithms.<br/><br/>
 
-Selecton Sort: A simple in-place sorting algorithm
+<b>Quick Sort</b>: An efficient and quick in-place sorting algorithm
 
-Insertion Sort: A simple sorting algorithm that is more efficient than bubble and selection sort
+<b>Bubble Sort</b>: A simple and slow sorting algorithm
+
+<b>Selecton Sort</b>: A simple in-place sorting algorithm
+
+<b>Insertion Sort</b>: A simple sorting algorithm that is more efficient than bubble and selection sort
