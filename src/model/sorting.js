@@ -27,7 +27,7 @@ function randomizeHeights() {
     sorted = false;
     let blocks = document.querySelectorAll(".bar");
     let num = Number(document.querySelector('#size').value)
-    if (num < 25) {
+    if (num < 51) {
         for (let i = 0; i <= blocks.length - 1; i++) {
             let height = Math.trunc(randomNumber(1, 350));
             blocks[i].style.height = `${height}px`;
